@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: zidii_decent_boy" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: ZaHidJuTT0" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: https://github.com/ZaHidJuTT0" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
@@ -64,7 +64,7 @@ global.themeemoji = process.env.GL_EMOJI || '🩵'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "©ᴍᴜʜᴀᴍᴍᴀᴅ-ᴍᴅ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/ZaHidJuTT0/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "穆罕默德  ̶ ᷦ ̶ͥ ͩ ̶ͥ ̶ͥ🩵̶³̶🪽"
 //________________________________________________________________________________________________________
